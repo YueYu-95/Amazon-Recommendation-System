@@ -1,0 +1,2 @@
+Please put downloaded data under this folder.
+The link to download the data: https://nijianmo.github.io/amazon/index.html
