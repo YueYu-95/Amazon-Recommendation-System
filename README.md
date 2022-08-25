@@ -42,3 +42,4 @@ In conclusion, trending products recommendation provides a good place to collect
 - Amazon_Recommendation_System.ipynb
 - LICENSE
 - README.md
+- presentaion.pdf
