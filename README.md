@@ -1,4 +1,4 @@
-# Amazon Video Games Rcommendation System
+# Amazon Video Games Recommendation System
 ![Amazon video games](https://github.com/YueYu-95/Amazon-Recommendation-System/blob/main/Images/Amazon-Video-Games-Consoles-and-Devices-_-2018.jpg)
 
 ## Business Understanding 
