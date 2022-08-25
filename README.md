@@ -26,7 +26,7 @@ Here is an example shows recommended product using the best model.
 ![collaborative filtering recommendations](https://github.com/YueYu-95/Amazon-Recommendation-System/blob/main/Images/collaborative_filtering_recom.PNG)
 ## Conclusion & Next Step
 ### Conclusion
-In conclusion, trending products recommendation provides a good place to collect new users', so that we could avoid cold start problem. The content based method can filter out customers' potentially interested categories and brand. For the collaborative filtering, the best model is SVD has rmse 0.998, which is a significant drop comparing with baseline models. Generally speaking, all recommendation systems can provide accurate recommendations to specific users.
+In conclusion, trending products recommendation provides a good place to collect new users' information, so that we could avoid cold start problem. The content based method can filter out customers' potentially interested categories and brand. For the collaborative filtering, the best model is SVD has rmse 0.998, which is a significant drop comparing with baseline models. Generally speaking, all recommendation systems can provide accurate recommendations to specific users.
 ### Next Steps
 - Deploy the recommendation system on the website
 - Find a better data, that contains genres of games and more complete brand information.
